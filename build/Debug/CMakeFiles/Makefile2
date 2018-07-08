@@ -63,8 +63,8 @@ CMAKE_BINARY_DIR = /home/craig/RACEGPSV2/build/Debug
 # Target rules for target CMakeFiles/RACEGPSV2.dir
 
 # All Build rule for target.
-CMakeFiles/RACEGPSV2.dir/all: externals/NemaTode/CMakeFiles/NemaTode.dir/all
 CMakeFiles/RACEGPSV2.dir/all: externals/serial/CMakeFiles/serial.dir/all
+CMakeFiles/RACEGPSV2.dir/all: externals/NemaTode/CMakeFiles/NemaTode.dir/all
 	$(MAKE) -f CMakeFiles/RACEGPSV2.dir/build.make CMakeFiles/RACEGPSV2.dir/depend
 	$(MAKE) -f CMakeFiles/RACEGPSV2.dir/build.make CMakeFiles/RACEGPSV2.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/craig/RACEGPSV2/build/Debug/CMakeFiles --progress-num=7,8,9 "Built target RACEGPSV2"
@@ -206,8 +206,8 @@ clean: externals/serial/CMakeFiles/serial.dir/clean
 # Target rules for target externals/serial/CMakeFiles/tests.dir
 
 # All Build rule for target.
-externals/serial/CMakeFiles/tests.dir/all: externals/serial/tests/CMakeFiles/serial-test.dir/all
 externals/serial/CMakeFiles/tests.dir/all: externals/serial/tests/CMakeFiles/serial-test-timer.dir/all
+externals/serial/CMakeFiles/tests.dir/all: externals/serial/tests/CMakeFiles/serial-test.dir/all
 	$(MAKE) -f externals/serial/CMakeFiles/tests.dir/build.make externals/serial/CMakeFiles/tests.dir/depend
 	$(MAKE) -f externals/serial/CMakeFiles/tests.dir/build.make externals/serial/CMakeFiles/tests.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/craig/RACEGPSV2/build/Debug/CMakeFiles --progress-num= "Built target tests"
@@ -510,8 +510,8 @@ externals/serial/tests/preinstall:
 # Target rules for target externals/serial/tests/CMakeFiles/_run_tests_serial_gtest.dir
 
 # All Build rule for target.
-externals/serial/tests/CMakeFiles/_run_tests_serial_gtest.dir/all: externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test-timer.dir/all
 externals/serial/tests/CMakeFiles/_run_tests_serial_gtest.dir/all: externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test.dir/all
+externals/serial/tests/CMakeFiles/_run_tests_serial_gtest.dir/all: externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test-timer.dir/all
 	$(MAKE) -f externals/serial/tests/CMakeFiles/_run_tests_serial_gtest.dir/build.make externals/serial/tests/CMakeFiles/_run_tests_serial_gtest.dir/depend
 	$(MAKE) -f externals/serial/tests/CMakeFiles/_run_tests_serial_gtest.dir/build.make externals/serial/tests/CMakeFiles/_run_tests_serial_gtest.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/craig/RACEGPSV2/build/Debug/CMakeFiles --progress-num= "Built target _run_tests_serial_gtest"
@@ -543,8 +543,8 @@ clean: externals/serial/tests/CMakeFiles/_run_tests_serial_gtest.dir/clean
 # Target rules for target externals/serial/tests/CMakeFiles/run_tests_serial_gtest.dir
 
 # All Build rule for target.
-externals/serial/tests/CMakeFiles/run_tests_serial_gtest.dir/all: externals/serial/tests/CMakeFiles/run_tests_serial_gtest_serial-test-timer.dir/all
 externals/serial/tests/CMakeFiles/run_tests_serial_gtest.dir/all: externals/serial/tests/CMakeFiles/run_tests_serial_gtest_serial-test.dir/all
+externals/serial/tests/CMakeFiles/run_tests_serial_gtest.dir/all: externals/serial/tests/CMakeFiles/run_tests_serial_gtest_serial-test-timer.dir/all
 	$(MAKE) -f externals/serial/tests/CMakeFiles/run_tests_serial_gtest.dir/build.make externals/serial/tests/CMakeFiles/run_tests_serial_gtest.dir/depend
 	$(MAKE) -f externals/serial/tests/CMakeFiles/run_tests_serial_gtest.dir/build.make externals/serial/tests/CMakeFiles/run_tests_serial_gtest.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/craig/RACEGPSV2/build/Debug/CMakeFiles --progress-num= "Built target run_tests_serial_gtest"
@@ -576,9 +576,9 @@ clean: externals/serial/tests/CMakeFiles/run_tests_serial_gtest.dir/clean
 # Target rules for target externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test-timer.dir
 
 # All Build rule for target.
-externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test-timer.dir/all: externals/serial/CMakeFiles/tests.dir/all
 externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test-timer.dir/all: externals/serial/tests/CMakeFiles/clean_test_results_serial.dir/all
 externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test-timer.dir/all: externals/serial/tests/CMakeFiles/serial-test-timer.dir/all
+externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test-timer.dir/all: externals/serial/CMakeFiles/tests.dir/all
 	$(MAKE) -f externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test-timer.dir/build.make externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test-timer.dir/depend
 	$(MAKE) -f externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test-timer.dir/build.make externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test-timer.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/craig/RACEGPSV2/build/Debug/CMakeFiles --progress-num= "Built target _run_tests_serial_gtest_serial-test-timer"
@@ -610,9 +610,9 @@ clean: externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test-tim
 # Target rules for target externals/serial/tests/CMakeFiles/serial-test.dir
 
 # All Build rule for target.
+externals/serial/tests/CMakeFiles/serial-test.dir/all: gtest/CMakeFiles/gtest_main.dir/all
 externals/serial/tests/CMakeFiles/serial-test.dir/all: gtest/CMakeFiles/gtest.dir/all
 externals/serial/tests/CMakeFiles/serial-test.dir/all: externals/serial/CMakeFiles/serial.dir/all
-externals/serial/tests/CMakeFiles/serial-test.dir/all: gtest/CMakeFiles/gtest_main.dir/all
 	$(MAKE) -f externals/serial/tests/CMakeFiles/serial-test.dir/build.make externals/serial/tests/CMakeFiles/serial-test.dir/depend
 	$(MAKE) -f externals/serial/tests/CMakeFiles/serial-test.dir/build.make externals/serial/tests/CMakeFiles/serial-test.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/craig/RACEGPSV2/build/Debug/CMakeFiles --progress-num=18,19 "Built target serial-test"
@@ -708,9 +708,9 @@ clean: externals/serial/tests/CMakeFiles/run_tests_serial.dir/clean
 # Target rules for target externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test.dir
 
 # All Build rule for target.
+externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test.dir/all: externals/serial/tests/CMakeFiles/clean_test_results_serial.dir/all
 externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test.dir/all: externals/serial/tests/CMakeFiles/serial-test.dir/all
 externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test.dir/all: externals/serial/CMakeFiles/tests.dir/all
-externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test.dir/all: externals/serial/tests/CMakeFiles/clean_test_results_serial.dir/all
 	$(MAKE) -f externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test.dir/build.make externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test.dir/depend
 	$(MAKE) -f externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test.dir/build.make externals/serial/tests/CMakeFiles/_run_tests_serial_gtest_serial-test.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/craig/RACEGPSV2/build/Debug/CMakeFiles --progress-num= "Built target _run_tests_serial_gtest_serial-test"
@@ -774,9 +774,9 @@ clean: externals/serial/tests/CMakeFiles/clean_test_results_serial.dir/clean
 # Target rules for target externals/serial/tests/CMakeFiles/serial-test-timer.dir
 
 # All Build rule for target.
+externals/serial/tests/CMakeFiles/serial-test-timer.dir/all: gtest/CMakeFiles/gtest_main.dir/all
 externals/serial/tests/CMakeFiles/serial-test-timer.dir/all: gtest/CMakeFiles/gtest.dir/all
 externals/serial/tests/CMakeFiles/serial-test-timer.dir/all: externals/serial/CMakeFiles/serial.dir/all
-externals/serial/tests/CMakeFiles/serial-test-timer.dir/all: gtest/CMakeFiles/gtest_main.dir/all
 	$(MAKE) -f externals/serial/tests/CMakeFiles/serial-test-timer.dir/build.make externals/serial/tests/CMakeFiles/serial-test-timer.dir/depend
 	$(MAKE) -f externals/serial/tests/CMakeFiles/serial-test-timer.dir/build.make externals/serial/tests/CMakeFiles/serial-test-timer.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/craig/RACEGPSV2/build/Debug/CMakeFiles --progress-num=20,21 "Built target serial-test-timer"

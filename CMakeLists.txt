@@ -49,7 +49,6 @@ set(${PROJECT_NAME}_EXTERNAL_INCLUDE_DIRS
 #Make Executable
 
 add_executable(${PROJECT_NAME} ${${PROJECT_NAME}_SRCS})
-#add_dependencies(${PROJECT_NAME} serial)
 target_link_libraries(${PROJECT_NAME} ${${PROJECT_NAME}_EXTERNAL_LIBS})
 target_include_directories(${PROJECT_NAME} PUBLIC
 	${${PROJECT_NAME}_EXTERNAL_INCLUDE_DIRS}
