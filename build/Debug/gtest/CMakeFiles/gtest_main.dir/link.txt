@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -std=c++11 -pthread -g  -shared -Wl,-soname,sogtest_main.so -o sogtest_main.so CMakeFiles/gtest_main.dir/src/gtest_main.cc.o  -L/home/craig/RACEGPSV2/build/Debug/gtest/src -Wl,-rpath,/home/craig/RACEGPSV2/build/Debug/gtest/src:/home/craig/RACEGPSV2/build/Debug/gtest -lpthread sogtest.so -lpthread 

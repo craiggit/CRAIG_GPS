@@ -1,0 +1,12 @@
+[submodule "externals/serial"]
+	path = externals/serial
+	url = https://github.com/wjwwood/serial.git
+[submodule "externals/NCURSES/ncurses"]
+	path = externals/NCURSES/ncurses
+	url = https://github.com/gittup/ncurses.git
+[submodule "externals/NemaTode"]
+	path = externals/NemaTode
+	url = https://github.com/ckgt/NemaTode.git
+[submodule "externals/spdlog"]
+	path = externals/spdlog
+	url = https://github.com/gabime/spdlog.git

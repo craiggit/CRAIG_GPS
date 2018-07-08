@@ -1,0 +1,1 @@
+/usr/bin/g++  -std=c++11 -pthread -g  -rdynamic CMakeFiles/serial-test-timer.dir/unit/unix_timer_tests.cc.o  -o ../../../devel/lib/serial/serial-test-timer  -L/home/craig/RACEGPSV2/build/Debug/gtest -Wl,-rpath,/home/craig/RACEGPSV2/build/Debug/gtest:/home/craig/RACEGPSV2/build/Debug/devel/lib ../../../gtest/sogtest.so ../../../devel/lib/soserial.so -lpthread -lrt -lpthread 

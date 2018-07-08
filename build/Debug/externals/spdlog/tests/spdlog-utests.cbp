@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="spdlog-utests"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\externals\;CMake Files\externals\NemaTode\;CMake Files\externals\serial\;CMake Files\externals\serial\tests\;CMake Files\externals\spdlog\;CMake Files\externals\spdlog\cmake\;CMake Files\externals\spdlog\tests\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\usr\;CMake Files\..\..\..\usr\share\;CMake Files\..\..\..\usr\share\catkin\;CMake Files\..\..\..\usr\share\catkin\cmake\;CMake Files\..\..\..\usr\share\catkin\cmake\platform\;CMake Files\..\..\..\usr\share\catkin\cmake\test\;CMake Files\..\..\..\usr\share\catkin\cmake\tools\;CMake Files\..\..\..\usr\share\catkin\cmake\templates\;CMake Files\..\..\..\usr\share\catkin\cmake\em\;CMake Files\..\..\..\usr\src\;CMake Files\..\..\..\usr\src\gtest\;CMake Files\..\..\..\usr\src\gtest\cmake\;CMake Files\build\;CMake Files\build\Debug\;CMake Files\build\Debug\catkin\;CMake Files\build\Debug\catkin\catkin_generated\;CMake Files\build\Debug\catkin\catkin_generated\version\;CMake Files\build\Debug\catkin_generated\;CMake Files\build\Debug\catkin_generated\installspace\;CMake Files\build\Debug\externals\;CMake Files\build\Debug\externals\serial\;CMake Files\build\Debug\externals\serial\catkin_generated\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="spdlog-utests">
+				<Option output="/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests/spdlog-utests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/craig/RACEGPSV2/externals/spdlog/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests/Makefile&quot;  VERBOSE=1 spdlog-utests"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="spdlog-utests/fast">
+				<Option output="/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests/spdlog-utests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/craig/RACEGPSV2/externals/spdlog/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests/Makefile&quot;  VERBOSE=1 spdlog-utests/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/craig/RACEGPSV2/build/Debug/externals/spdlog/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/craig/RACEGPSV2/externals/spdlog/tests/errors.cpp">
+			<Option target="spdlog-utests"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/spdlog/tests/file_helper.cpp">
+			<Option target="spdlog-utests"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/spdlog/tests/file_log.cpp">
+			<Option target="spdlog-utests"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/spdlog/tests/includes.h">
+			<Option target="spdlog-utests"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/spdlog/tests/main.cpp">
+			<Option target="spdlog-utests"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/spdlog/tests/registry.cpp">
+			<Option target="spdlog-utests"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/spdlog/tests/test_async.cpp">
+			<Option target="spdlog-utests"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/spdlog/tests/test_macros.cpp">
+			<Option target="spdlog-utests"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/spdlog/tests/test_misc.cpp">
+			<Option target="spdlog-utests"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/spdlog/tests/test_pattern_formatter.cpp">
+			<Option target="spdlog-utests"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/spdlog/tests/utils.cpp">
+			<Option target="spdlog-utests"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/spdlog/tests/utils.h">
+			<Option target="spdlog-utests"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/NemaTode/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\externals\NemaTode\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/serial/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\externals\serial\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/serial/package.xml">
+			<Option virtualFolder="CMake Files\externals\serial\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/serial/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\externals\serial\tests\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/spdlog/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\externals\spdlog\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/spdlog/cmake/spdlog.pc.in">
+			<Option virtualFolder="CMake Files\externals\spdlog\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/externals/spdlog/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\externals\spdlog\tests\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/package.xml">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/all.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/assert.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/atomic_configure_file.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/catkinConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/catkinConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/catkin_add_env_hooks.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/catkin_destinations.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/catkin_download.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/catkin_generate_environment.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/catkin_install_python.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/catkin_libraries.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/catkin_metapackage.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/catkin_package.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/catkin_package_xml.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/catkin_python_setup.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/catkin_workspace.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/debug_message.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/em_expand.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/empy.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/find_program_required.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/interrogate_setup_dot_py.py">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/legacy.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/list_append_deduplicate.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/list_append_unique.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/list_insert_in_workspace_order.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/python.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/safe_execute_process.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/stamp.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/string_starts_with.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/platform/lsb.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\platform\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/platform/ubuntu.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\platform\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/platform/windows.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\platform\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/test/catkin_download_test_data.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\test\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/test/gtest.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\test\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/test/nosetests.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\test\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/test/tests.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\test\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/tools/doxygen.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\tools\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/tools/libraries.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\tools\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/tools/rt.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\tools\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/templates/_setup_util.py.in">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\templates\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/templates/env.sh.in">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\templates\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/templates/generate_cached_setup.py.in">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\templates\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/templates/pkg.context.pc.in">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\templates\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/templates/pkgConfig-version.cmake.in">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\templates\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/templates/pkgConfig.cmake.in">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\templates\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/templates/rosinstall.in">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\templates\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/templates/setup.bash.in">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\templates\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/templates/setup.sh.in">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\templates\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/templates/setup.zsh.in">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\templates\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/share/catkin/cmake/em/pkg.pc.em">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\catkin\cmake\em\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/src/gtest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\..\..\usr\src\gtest\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/../../../usr/src/gtest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\src\gtest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/build/Debug/catkin/catkin_generated/version/package.cmake">
+			<Option virtualFolder="CMake Files\build\Debug\catkin\catkin_generated\version\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/build/Debug/catkin_generated/installspace/_setup_util.py">
+			<Option virtualFolder="CMake Files\build\Debug\catkin_generated\installspace\"/>
+		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/build/Debug/externals/serial/catkin_generated/package.cmake">
+			<Option virtualFolder="CMake Files\build\Debug\externals\serial\catkin_generated\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

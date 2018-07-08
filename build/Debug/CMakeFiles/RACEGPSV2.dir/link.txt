@@ -1,0 +1,1 @@
+/usr/bin/g++  -std=c++11 -pthread -g  -rdynamic CMakeFiles/RACEGPSV2.dir/src/main.cpp.o CMakeFiles/RACEGPSV2.dir/src/quitable.cpp.o  -o RACEGPSV2 -Wl,-rpath,/home/craig/RACEGPSV2/build/Debug/devel/lib externals/NemaTode/libNemaTode.a devel/lib/soserial.so -lrt -lpthread 

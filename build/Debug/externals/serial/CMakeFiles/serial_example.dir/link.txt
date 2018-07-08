@@ -1,0 +1,1 @@
+/usr/bin/g++  -std=c++11 -pthread -g  -rdynamic CMakeFiles/serial_example.dir/examples/serial_example.cc.o  -o ../../devel/lib/serial/serial_example -Wl,-rpath,/home/craig/RACEGPSV2/build/Debug/devel/lib ../../devel/lib/soserial.so -lrt -lpthread 

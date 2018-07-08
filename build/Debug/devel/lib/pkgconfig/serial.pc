@@ -1,0 +1,8 @@
+prefix=/home/craig/RACEGPSV2/build/Debug/devel
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I/home/craig/RACEGPSV2/externals/serial/include
+Libs: -L/home/craig/RACEGPSV2/build/Debug/devel/lib -lserial -lrt -lpthread
+Requires: 

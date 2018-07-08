@@ -1,0 +1,308 @@
+[2018-07-08 22:43:51.224] [file_logger] [info] ========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		3 (tracking) of 3 (visible)
+ < Fix Details >
+   Age:                1531011600 s
+   Timestamp:          21h 43m 51s  January 1 1970   UTC   
+			(raw: 214351 time, 0 date)
+   Raw Status:         V  (Void)
+   Type:               1  (None)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680312' N, -1.292418' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           64.8 m
+   Speed:              0 km/h
+   Travel Dir:         0 deg  [North]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-08 22:43:51.341] [file_logger] [info] ========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		3 (tracking) of 3 (visible)
+ < Fix Details >
+   Age:                1531011600 s
+   Timestamp:          21h 43m 51s  January 1 1970   UTC   
+			(raw: 214351 time, 0 date)
+   Raw Status:         V  (Void)
+   Type:               1  (None)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680312' N, -1.292418' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           64.8 m
+   Speed:              0 km/h
+   Travel Dir:         0 deg  [North]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-08 22:43:51.506] [file_logger] [info] ========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		3 (tracking) of 3 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          21h 43m 51s  July 8 2018   UTC   
+			(raw: 214351 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               1  (None)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680312' N, -1.292418' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           64.8 m
+   Speed:              3.704 km/h
+   Travel Dir:         217.75 deg  [South West]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-08 22:43:51.593] [file_logger] [info] ========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		3 (tracking) of 3 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          21h 43m 51s  July 8 2018   UTC   
+			(raw: 214351 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               1  (None)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680312' N, -1.292418' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           64.8 m
+   Speed:              3.704 km/h
+   Travel Dir:         217.75 deg  [South West]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-08 22:43:52.342] [file_logger] [info] ========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		3 (tracking) of 3 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          21h 43m 51s  July 8 2018   UTC   
+			(raw: 214351 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               1  (None)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680312' N, -1.292418' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           64.8 m
+   Speed:              3.704 km/h
+   Travel Dir:         217.75 deg  [South West]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-08 22:43:52.507] [file_logger] [info] ========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		3 (tracking) of 3 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          21h 43m 52s  July 8 2018   UTC   
+			(raw: 214352 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               1  (None)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680312' N, -1.292420' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           64.8 m
+   Speed:              2.25944 km/h
+   Travel Dir:         218.02 deg  [South West]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-08 22:43:52.594] [file_logger] [info] ========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		3 (tracking) of 3 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          21h 43m 52s  July 8 2018   UTC   
+			(raw: 214352 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               1  (None)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680312' N, -1.292420' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           64.8 m
+   Speed:              2.3 km/h
+   Travel Dir:         218.02 deg  [South West]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-08 22:43:53.225] [file_logger] [info] ========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		4 (tracking) of 4 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          21h 43m 53s  July 8 2018   UTC   
+			(raw: 214353 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               1  (None)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680307' N, -1.292425' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           64.7 m
+   Speed:              2.3 km/h
+   Travel Dir:         218.02 deg  [South West]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-08 22:43:53.342] [file_logger] [info] ========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		4 (tracking) of 4 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          21h 43m 53s  July 8 2018   UTC   
+			(raw: 214353 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               1  (None)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680307' N, -1.292425' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           64.7 m
+   Speed:              2.3 km/h
+   Travel Dir:         218.02 deg  [South West]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-08 22:43:53.450] [file_logger] [info] ========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		4 (tracking) of 4 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          21h 43m 53s  July 8 2018   UTC   
+			(raw: 214353 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680307' N, -1.292425' E
+   DOP (P,H,V):        5.7,   4.3,   3.8
+   Accuracy(H,V):      17.2 m,   22.8 m
+   Altitude:           64.7 m
+   Speed:              2.3 km/h
+   Travel Dir:         218.02 deg  [South West]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-08 22:43:53.610] [file_logger] [info] ========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		4 (tracking) of 4 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          21h 43m 53s  July 8 2018   UTC   
+			(raw: 214353 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680307' N, -1.292425' E
+   DOP (P,H,V):        5.7,   4.3,   3.8
+   Accuracy(H,V):      17.2 m,   22.8 m
+   Altitude:           64.7 m
+   Speed:              2.3 km/h
+   Travel Dir:         218.02 deg  [South West]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-08 22:43:53.762] [file_logger] [info] ========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		4 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          21h 43m 53s  July 8 2018   UTC   
+			(raw: 214353 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680307' N, -1.292425' E
+   DOP (P,H,V):        5.7,   4.3,   3.8
+   Accuracy(H,V):      17.2 m,   22.8 m
+   Altitude:           64.7 m
+   Speed:              2.3 km/h
+   Travel Dir:         218.02 deg  [South West]
+   SNR:                avg: 19.5 dB   [min: 16 dB,  max:23 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  23 dB    Azimuth: 163 deg   Elevation:  22 deg  ]
+   [ 2]   [PRN:  23   SNR:  16 dB    Azimuth:  66 deg   Elevation:  54 deg  ]
+   [ 3]   [PRN:  19   SNR:   0 dB    Azimuth: 230 deg   Elevation:  16 deg  ]
+   [ 4]   [PRN:  26   SNR:   0 dB    Azimuth:  44 deg   Elevation:   6 deg  ]
+
+[2018-07-08 22:43:54.330] [file_logger] [info] ========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		4 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          21h 43m 54s  July 8 2018   UTC   
+			(raw: 214354 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680298' N, -1.292433' E
+   DOP (P,H,V):        5.7,   4.3,   3.8
+   Accuracy(H,V):      17.2 m,   22.8 m
+   Altitude:           64.6 m
+   Speed:              2.3 km/h
+   Travel Dir:         218.02 deg  [South West]
+   SNR:                avg: 19.5 dB   [min: 16 dB,  max:23 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  23 dB    Azimuth: 163 deg   Elevation:  22 deg  ]
+   [ 2]   [PRN:  23   SNR:  16 dB    Azimuth:  66 deg   Elevation:  54 deg  ]
+   [ 3]   [PRN:  19   SNR:   0 dB    Azimuth: 230 deg   Elevation:  16 deg  ]
+   [ 4]   [PRN:  26   SNR:   0 dB    Azimuth:  44 deg   Elevation:   6 deg  ]
+
+[2018-07-08 22:43:54.447] [file_logger] [info] ========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		4 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          21h 43m 54s  July 8 2018   UTC   
+			(raw: 214354 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680298' N, -1.292433' E
+   DOP (P,H,V):        5.7,   4.3,   3.8
+   Accuracy(H,V):      17.2 m,   22.8 m
+   Altitude:           64.6 m
+   Speed:              2.3 km/h
+   Travel Dir:         218.02 deg  [South West]
+   SNR:                avg: 19.5 dB   [min: 16 dB,  max:23 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  23 dB    Azimuth: 163 deg   Elevation:  22 deg  ]
+   [ 2]   [PRN:  23   SNR:  16 dB    Azimuth:  66 deg   Elevation:  54 deg  ]
+   [ 3]   [PRN:  19   SNR:   0 dB    Azimuth: 230 deg   Elevation:  16 deg  ]
+   [ 4]   [PRN:  26   SNR:   0 dB    Azimuth:  44 deg   Elevation:   6 deg  ]
+
+[2018-07-08 22:43:54.612] [file_logger] [info] ========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		4 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          21h 43m 54s  July 8 2018   UTC   
+			(raw: 214354 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680298' N, -1.292433' E
+   DOP (P,H,V):        5.7,   4.3,   3.8
+   Accuracy(H,V):      17.2 m,   22.8 m
+   Altitude:           64.6 m
+   Speed:              2.3 km/h
+   Travel Dir:         218.02 deg  [South West]
+   SNR:                avg: 19.5 dB   [min: 16 dB,  max:23 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  23 dB    Azimuth: 163 deg   Elevation:  2
