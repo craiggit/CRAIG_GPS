@@ -57,3 +57,7 @@ target_include_directories(${PROJECT_NAME} PUBLIC
 
 #make directory for logging
 file(MAKE_DIRECTORY ${PROJECT_BINARY_DIR}/log)
+
+#Move setup script
+
+configure_file("setup.sh" "${PROJECT_BINARY_DIR}/setup.sh" COPYONLY)

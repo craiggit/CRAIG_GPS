@@ -21,6 +21,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "../../externals/spdlog/CMakeLists.txt"
   "../../externals/spdlog/cmake/spdlog.pc.in"
   "../../externals/spdlog/tests/CMakeLists.txt"
+  "../../setup.sh"
   "/usr/share/catkin/cmake/../package.xml"
   "/usr/share/catkin/cmake/all.cmake"
   "/usr/share/catkin/cmake/assert.cmake"
@@ -122,6 +123,7 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
+  "setup.sh"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "externals/serial/CMakeFiles/CMakeDirectoryInformation.cmake"
   "gtest/CMakeFiles/CMakeDirectoryInformation.cmake"

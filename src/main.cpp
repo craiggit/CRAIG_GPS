@@ -88,10 +88,10 @@ int main(int argc, char **argv)
 	std::string filePath = logDirPath + "/" + "log";
 	try
 	{
-		// create a file rotating logger with 5mb size max and 3 rotated files
-		auto file_logger = spdlog::rotating_logger_mt("file_logger", "log/RACEGPSLOG", 1024 * 1024 * 5, 3);
 		auto console = spdlog::stdout_color_mt("console");
+		auto file_logger = spdlog::rotating_logger_mt("file_logger", "log/RACEGPSLOG", 1024 * 1024 * 5, 3);
 		auto file_logger_raw = spdlog::rotating_logger_mt("file_logger_raw", "log/RACEGPSLOG_raw", 1024 * 1024 * 5, 3);
+		auto file_logger_csv = spdlog::rotating_logger_mt("file_logger_csv", "log/RACEGPSLOG_csv", 1024 * 1024 * 5, 3);
 	}
 	catch (const spdlog::spdlog_ex& ex)
 	{
@@ -99,6 +99,8 @@ int main(int argc, char **argv)
 	}
 
 	auto file_logger = spdlog::get("file_logger");
+	auto file_logger_csv = spdlog::get("file_logger_csv");
+	file_logger_csv->set_pattern(" %v");
 	auto file_logger_raw = spdlog::get("file_logger_raw");
 	auto console = spdlog::get("console");
 
@@ -112,6 +114,8 @@ int main(int argc, char **argv)
 			nmeaParser.readLine(buffer);
 			file_logger->info("\n" + service.fix.toString());
 			file_logger_raw->info("\n" + buffer);
+			std::stringstream ss; ss << service.fix.latitude << "," << service.fix.longitude << "," << service.fix.timestamp.toString();
+			file_logger_csv->info("\n" + ss.str());
 			console->info("\n" + service.fix.toString());
 		}
 		catch(std::exception e)

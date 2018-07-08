@@ -1,0 +1,3288 @@
+[2018-07-09 00:18:41.517] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		SEARCHING...
+ Satellites: 		0 (tracking) of 0 (visible)
+ < Fix Details >
+   Age:                1531095521 s
+   Timestamp:          0h 0m 0s  January 1 1970   UTC   
+			(raw: 0 time, 0 date)
+   Raw Status:         V  (Void)
+   Type:               1  (None)
+   Quality:            0  (Invalid)
+   Lat/Lon (N,E):      0.000000' N, 0.000000' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           0 m
+   Speed:              0 km/h
+   Travel Dir:         0 deg  [North]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-09 00:18:41.604] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		SEARCHING...
+ Satellites: 		0 (tracking) of 0 (visible)
+ < Fix Details >
+   Age:                1531095521 s
+   Timestamp:          0h 0m 0s  January 1 1970   UTC   
+			(raw: 0 time, 0 date)
+   Raw Status:         V  (Void)
+   Type:               1  (None)
+   Quality:            0  (Invalid)
+   Lat/Lon (N,E):      0.000000' N, 0.000000' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           0 m
+   Speed:              0.3 km/h
+   Travel Dir:         0 deg  [North]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-09 00:18:42.236] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		SEARCHING...
+ Satellites: 		0 (tracking) of 0 (visible)
+ < Fix Details >
+   Age:                1531095522 s
+   Timestamp:          0h 0m 0s  January 1 1970   UTC   
+			(raw: 0 time, 0 date)
+   Raw Status:         V  (Void)
+   Type:               1  (None)
+   Quality:            0  (Invalid)
+   Lat/Lon (N,E):      0.000000' N, 0.000000' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           0 m
+   Speed:              0.3 km/h
+   Travel Dir:         0 deg  [North]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-09 00:18:42.353] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		SEARCHING...
+ Satellites: 		0 (tracking) of 0 (visible)
+ < Fix Details >
+   Age:                1531095522 s
+   Timestamp:          0h 0m 0s  January 1 1970   UTC   
+			(raw: 0 time, 0 date)
+   Raw Status:         V  (Void)
+   Type:               1  (None)
+   Quality:            0  (Invalid)
+   Lat/Lon (N,E):      0.000000' N, 0.000000' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           0 m
+   Speed:              0.3 km/h
+   Travel Dir:         0 deg  [North]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-09 00:18:42.518] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		0 (tracking) of 0 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 42s  July 8 2018   UTC   
+			(raw: 231842 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               1  (None)
+   Quality:            0  (Invalid)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           0 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-09 00:18:43.275] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 6 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 43s  July 8 2018   UTC   
+			(raw: 231843 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               1  (None)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-09 00:18:43.392] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 6 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 43s  July 8 2018   UTC   
+			(raw: 231843 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               1  (None)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        0,   0,   0
+   Accuracy(H,V):      0 m,   0 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-09 00:18:43.509] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 6 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 43s  July 8 2018   UTC   
+			(raw: 231843 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+ > No satellite info in almanac.
+
+[2018-07-09 00:18:43.669] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 43s  July 8 2018   UTC   
+			(raw: 231843 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:43.830] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 43s  July 8 2018   UTC   
+			(raw: 231843 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:43.972] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 43s  July 8 2018   UTC   
+			(raw: 231843 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:44.224] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 43s  July 8 2018   UTC   
+			(raw: 231843 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:44.398] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 44s  July 8 2018   UTC   
+			(raw: 231844 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:44.515] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 44s  July 8 2018   UTC   
+			(raw: 231844 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:44.680] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 44s  July 8 2018   UTC   
+			(raw: 231844 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:44.767] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 44s  July 8 2018   UTC   
+			(raw: 231844 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:45.355] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 44s  July 8 2018   UTC   
+			(raw: 231844 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:45.520] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 45s  July 8 2018   UTC   
+			(raw: 231845 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:45.607] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 45s  July 8 2018   UTC   
+			(raw: 231845 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:46.354] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 45s  July 8 2018   UTC   
+			(raw: 231845 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:46.606] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 45s  July 8 2018   UTC   
+			(raw: 231845 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:47.352] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                2 s
+   Timestamp:          23h 18m 45s  July 8 2018   UTC   
+			(raw: 231845 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:47.517] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                2 s
+   Timestamp:          23h 18m 45s  July 8 2018   UTC   
+			(raw: 231845 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:47.604] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                2 s
+   Timestamp:          23h 18m 45s  July 8 2018   UTC   
+			(raw: 231845 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:48.240] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 18m 45s  July 8 2018   UTC   
+			(raw: 231845 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:48.357] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 18m 45s  July 8 2018   UTC   
+			(raw: 231845 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:48.474] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 18m 45s  July 8 2018   UTC   
+			(raw: 231845 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:48.794] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 18m 45s  July 8 2018   UTC   
+			(raw: 231845 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680527' N, -1.292208' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:49.101] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 48s  July 8 2018   UTC   
+			(raw: 231848 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:49.189] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 48s  July 8 2018   UTC   
+			(raw: 231848 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.2 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:49.363] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		5 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 49s  July 8 2018   UTC   
+			(raw: 231849 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:49.480] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		5 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 49s  July 8 2018   UTC   
+			(raw: 231849 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:49.645] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		5 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 49s  July 8 2018   UTC   
+			(raw: 231849 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:49.732] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		5 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 49s  July 8 2018   UTC   
+			(raw: 231849 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:50.271] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		5 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 49s  July 8 2018   UTC   
+			(raw: 231849 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:50.388] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		5 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 49s  July 8 2018   UTC   
+			(raw: 231849 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:50.553] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		5 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 50s  July 8 2018   UTC   
+			(raw: 231850 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:50.640] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		5 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 50s  July 8 2018   UTC   
+			(raw: 231850 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:51.238] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		5 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 50s  July 8 2018   UTC   
+			(raw: 231850 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:51.355] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		5 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 50s  July 8 2018   UTC   
+			(raw: 231850 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:51.520] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		5 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 50s  July 8 2018   UTC   
+			(raw: 231850 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:51.607] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		5 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 50s  July 8 2018   UTC   
+			(raw: 231850 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:52.238] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:52.354] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:52.519] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:52.607] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:53.241] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:53.358] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        3.2,   1.5,   2.9
+   Accuracy(H,V):      6 m,   17.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:53.475] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:53.635] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:53.795] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:53.942] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:54.194] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                2 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:54.368] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                2 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:54.485] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                2 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:54.737] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                2 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:55.245] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:55.362] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:55.614] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:56.244] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                4 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:56.361] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                4 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:56.613] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                4 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:57.240] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                5 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:57.357] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                5 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:57.522] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                5 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:57.609] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                5 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:58.354] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                6 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.3,   2.4
+   Accuracy(H,V):      5.2 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:58.471] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                6 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:58.631] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                6 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:58.787] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                6 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:58.929] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                6 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:59.181] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                7 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:59.355] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                7 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:59.637] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                7 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:18:59.724] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                7 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:19:00.238] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                8 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:19:00.355] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                8 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:19:00.607] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                8 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:19:01.272] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                9 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:19:01.389] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                9 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:19:01.554] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                9 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:19:01.641] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                9 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:19:02.353] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                10 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:19:02.518] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                10 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:19:02.606] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                10 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:19:03.238] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                11 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:19:03.355] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                11 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:19:03.472] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                11 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 26.75 dB   [min: 21 dB,  max:33 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   7   SNR:  21 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 2]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 3]   [PRN:   2   SNR:  33 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 4]   [PRN:  30   SNR:  31 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+
+[2018-07-09 00:19:03.632] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                11 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:03.788] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                11 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:03.930] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                11 s
+   Timestamp:          23h 18m 52s  July 8 2018   UTC   
+			(raw: 231852 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:04.095] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 19m 3s  July 8 2018   UTC   
+			(raw: 231903 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:04.356] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 19m 3s  July 8 2018   UTC   
+			(raw: 231903 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:04.473] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 19m 3s  July 8 2018   UTC   
+			(raw: 231903 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:04.638] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 19m 3s  July 8 2018   UTC   
+			(raw: 231903 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:04.725] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 19m 3s  July 8 2018   UTC   
+			(raw: 231903 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:05.354] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                2 s
+   Timestamp:          23h 19m 3s  July 8 2018   UTC   
+			(raw: 231903 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:05.519] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 19m 5s  July 8 2018   UTC   
+			(raw: 231905 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:05.606] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 19m 5s  July 8 2018   UTC   
+			(raw: 231905 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:06.354] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 19m 5s  July 8 2018   UTC   
+			(raw: 231905 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:06.519] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 19m 5s  July 8 2018   UTC   
+			(raw: 231905 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:07.241] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                2 s
+   Timestamp:          23h 19m 5s  July 8 2018   UTC   
+			(raw: 231905 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:07.358] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                2 s
+   Timestamp:          23h 19m 5s  July 8 2018   UTC   
+			(raw: 231905 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:07.610] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                2 s
+   Timestamp:          23h 19m 5s  July 8 2018   UTC   
+			(raw: 231905 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:08.273] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 19m 5s  July 8 2018   UTC   
+			(raw: 231905 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:08.390] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 19m 5s  July 8 2018   UTC   
+			(raw: 231905 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:08.507] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 19m 5s  July 8 2018   UTC   
+			(raw: 231905 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:08.667] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 19m 5s  July 8 2018   UTC   
+			(raw: 231905 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 21.75 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (33.3333%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+
+[2018-07-09 00:19:08.823] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 19m 5s  July 8 2018   UTC   
+			(raw: 231905 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (66.6667%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+
+[2018-07-09 00:19:08.965] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 19m 5s  July 8 2018   UTC   
+			(raw: 231905 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:09.130] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 19m 8s  July 8 2018   UTC   
+			(raw: 231908 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:09.391] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 19m 8s  July 8 2018   UTC   
+			(raw: 231908 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:09.508] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 19m 8s  July 8 2018   UTC   
+			(raw: 231908 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:09.673] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                0 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:10.240] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:10.357] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:10.522] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:10.609] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                1 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:11.357] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                2 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:11.522] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                2 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:11.610] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                2 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:12.238] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:12.355] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:12.520] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:12.607] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                3 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:13.243] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                4 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:13.360] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                4 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:13.481] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                4 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:13.802] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                4 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 20.7143 dB   [min: 3 dB,  max:32 dB]
+ < Almanac (100%) >
+   [ 1]   [PRN:   9   SNR:  22 dB    Azimuth:  72 deg   Elevation:  48 deg  ]
+   [ 2]   [PRN:   2   SNR:   3 dB    Azimuth: 253 deg   Elevation:  45 deg  ]
+   [ 3]   [PRN:   0   SNR:  32 dB    Azimuth: 174 deg   Elevation:  42 deg  ]
+   [ 4]   [PRN:   5   SNR:  30 dB    Azimuth: 297 deg   Elevation:  40 deg  ]
+   [ 5]   [PRN:   6   SNR:  12 dB    Azimuth: 196 deg   Elevation:  27 deg  ]
+   [ 6]   [PRN:  29   SNR:  25 dB    Azimuth: 319 deg   Elevation:  10 deg  ]
+   [ 7]   [PRN:  16   SNR:  21 dB    Azimuth:  32 deg   Elevation:  12 deg  ]
+   [ 8]   [PRN:   7   SNR:   0 dB    Azimuth: 130 deg   Elevation:  61 deg  ]
+   [ 9]   [PRN:  23   SNR:   0 dB    Azimuth:  74 deg   Elevation:  15 deg  ]
+   [10]   [PRN:   4   SNR:   0 dB    Azimuth: 225 deg   Elevation:   8 deg  ]
+   [11]   [PRN:  13   SNR:   0 dB    Azimuth: 248 deg   Elevation:   7 deg  ]
+   [12]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:13.949] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                4 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+   [ 1]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:14.201] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                5 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   Type:               3  (3D)
+   Quality:            1  (Standard)
+   Lat/Lon (N,E):      51.680523' N, -1.292210' E
+   DOP (P,H,V):        2.7,   1.2,   2.4
+   Accuracy(H,V):      4.8 m,   14.4 m
+   Altitude:           64.1 m
+   Speed:              0 km/h
+   Travel Dir:         344.01 deg  [North]
+   SNR:                avg: 0 dB   [min: 0 dB,  max:0 dB]
+ < Almanac (0%) >
+   [ 1]   [PRN:  26   SNR:   0 dB    Azimuth:   9 deg   Elevation:   0 deg  ]
+
+[2018-07-09 00:19:14.375] [file_logger] [info] 
+========================== GPS FIX ================================
+ Status: 		LOCK!
+ Satellites: 		6 (tracking) of 12 (visible)
+ < Fix Details >
+   Age:                5 s
+   Timestamp:          23h 19m 9s  July 8 2018   UTC   
+			(raw: 231909 time, 80718 date)
+   Raw Status:         A  (Active)
+   T

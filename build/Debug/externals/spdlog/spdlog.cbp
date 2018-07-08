@@ -286,6 +286,9 @@
 		<Unit filename="/home/craig/RACEGPSV2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
+		<Unit filename="/home/craig/RACEGPSV2/setup.sh">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
 		<Unit filename="/home/craig/RACEGPSV2/externals/NemaTode/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\externals\NemaTode\"/>
 		</Unit>
